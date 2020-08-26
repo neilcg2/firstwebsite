@@ -19,15 +19,21 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a041a7e7-2203-4585-8eae-e5f85c886bb2" name="Default Changelist" comment="Ignore Files">
+    <list default="true" id="a041a7e7-2203-4585-8eae-e5f85c886bb2" name="Default Changelist" comment="Added Highlights section. Used cards and scaled images.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NG.css" beforeDir="false" afterPath="$PROJECT_DIR$/NG.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NeilGhosh.html" beforeDir="false" afterPath="$PROJECT_DIR$/NeilGhosh.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -73,7 +79,7 @@
       <updated>1598469641359</updated>
       <workItem from="1598469643593" duration="568000" />
       <workItem from="1598470240516" duration="1678000" />
-      <workItem from="1598472033047" duration="2748000" />
+      <workItem from="1598472033047" duration="4644000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <created>1598469973888</created>
@@ -103,7 +109,14 @@
       <option name="project" value="LOCAL" />
       <updated>1598471581075</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Added Highlights section. Used cards and scaled images.">
+      <created>1598474860323</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1598474860323</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -124,7 +137,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial Commit" />
     <MESSAGE value="Ignore Files" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ignore Files" />
+    <MESSAGE value="Added Highlights section. Used cards and scaled images." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Highlights section. Used cards and scaled images." />
   </component>
   <component name="WindowStateProjectService">
     <state x="528" y="283" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1598471649631">
@@ -191,10 +205,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="561" y="134" key="RollbackChangesDialog/0.0.1536.824/3840.0.1920.1040@0.0.1536.824" timestamp="1598472333121" />
-    <state x="362" y="146" key="Vcs.Push.Dialog.v2" timestamp="1598473071857">
+    <state x="362" y="146" key="Vcs.Push.Dialog.v2" timestamp="1598474865852">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="362" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.824/3840.0.1920.1040@0.0.1536.824" timestamp="1598473071857" />
+    <state x="362" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.824/3840.0.1920.1040@0.0.1536.824" timestamp="1598474865852" />
     <state x="4293" y="184" key="Vcs.Push.Dialog.v2/0.0.1536.824/3840.0.1920.1040@3840.0.1920.1040" timestamp="1598471399095" />
     <state x="588" y="327" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1598470144140">
       <screen x="0" y="0" width="1536" height="824" />
