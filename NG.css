@@ -57,7 +57,7 @@ img{
 @media only screen and (max-width: 600px) {
   .container {
     max-width: 100%;
-    font-size: 0.8em;
+    font-size: 0.5em;
   }
   h1{
     font-size: 0.6em;
