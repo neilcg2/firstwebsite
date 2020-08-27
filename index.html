@@ -33,7 +33,7 @@
       <a class="nav-item nav-link active" href="#about">About</a>
       <a class="nav-item nav-link active" href="#highlights">Highlights</a>
       <a class="nav-item nav-link active" href="#links">Links</a>
-      <a class="nav-item nav-link" href="#projects">Projects</a>
+      <a class="nav-item nav-link active" href="#projects">Projects</a>
       <a class="nav-item nav-link active" href="#employment">Employment</a>
       <a class="nav-item nav-link active" href="#education">Education</a>
       <a class="nav-item nav-link active" href="#skills">Skills</a>
@@ -120,32 +120,41 @@
 <!--PROJECTS-->
 <div class="container">
 <h1 id="projects">Projects</h1><br>
-<div id="carouselExampleCaptions" class="carousel slide" data-ride="carousel">
-  <ol class="carousel-indicators">
-    <li data-target="#carouselExampleCaptions" data-slide-to="0"></li>
-    <li data-target="#carouselExampleCaptions" data-slide-to="1"></li>
-  </ol>
-  <div class="carousel-inner">
-    <div class="carousel-item active">
-      <img src="https://journocode.com/wp-content/uploads/2016/06/htmlCssJS.jpg" class="d-block w-100" alt="Whoops!">
-      <div class="carousel-caption d-none d-md-block">
-        <h5><a href="https://github.com/neilcg2/neilcg2.github.io" target="_blank" class="pro">This Website!</a></h5>
-        <p class="caro">My first personal project in front-end web development.</p><br>
-        <p class="caro">August 2020 - Present</p>
+<div class="accordion" id="accordionExample">
+  <div class="card">
+    <div class="card-header" id="headingOne">
+      <h2 class="mb-0">
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+          This Website!
+        </button>
+      </h2>
+    </div>
+    <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordionExample">
+      <div class="card-body">
+        <p>My first personal project in front-end web development using only HTML & CSS.</p>
+        <p><a href="https://github.com/neilcg2/neilcg2.github.io" target="_blank">Github Repository</a></p>
+        <p>August 2020</p>
       </div>
     </div>
-    <div class="carousel-item">
-      <img src="https://mcusercontent.com/542c9a717f8e5166c5dbccc11/images/d31be47e-d6ac-47bb-918e-b944324bd0c5.png" class="d-block w-100" alt="Whoops!">
-      <div class="carousel-caption d-none d-md-block">
-        <h5><a href="https://www.dailyuplook.com/" target="_blank" class="pro">Daily Uplook</a></h5>
-        <p class="caro">A weekly curated newsletter with links and summaries of the most inspiring/feel-good news stories.</p><br>
-        <p class="caro">May 2020 - Present</p>
+  </div>
+  <div class="card">
+    <div class="card-header" id="headingTwo">
+      <h2 class="mb-0">
+        <button class="btn btn-link btn-block text-left collapsed" type="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+          Daily Uplook
+        </button>
+      </h2>
+    </div>
+    <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionExample">
+      <div class="card-body">
+        <p>A weekly curated newsletter with links and summaries of the most inspiring/feel-good news stories that tend to get overlooked amidst the pandemic.</p>
+        <p><a href="https://www.dailyuplook.com/" target="_blank">dailyuplook.com</a></p>
+        <p>May 2020</p>
       </div>
     </div>
   </div>
 </div>
 </div>
-
 <!--END OF PROJECTS-->
 
 <!--EMPLOYMENT-->
